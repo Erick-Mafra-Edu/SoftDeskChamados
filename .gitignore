@@ -1,0 +1,11 @@
+.next
+node_modules
+.tmp
+.env*
+!.env.example
+coverage
+npm-debug.log*
+pnpm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+dist
