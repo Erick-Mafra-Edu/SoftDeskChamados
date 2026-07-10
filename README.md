@@ -206,4 +206,11 @@ Ainda assim, a estrutura permite que outra pessoa com uma necessidade semelhante
 - Para ambientes compartilhados ou producao, revise esse fluxo antes de disponibilizar a aplicacao a outros usuarios.
 - Cookies e tokens informados nas variaveis de ambiente devem ser tratados como segredos.
 
-Este é um projeto independente, de código aberto, desenvolvido puramente para fins educacionais e de otimização de fluxo de trabalho pessoal. Ele não possui nenhuma afiliação, patrocínio ou aprovação oficial da Soft4 ou dos desenvolvedores do Softdesk. O uso desta ferramenta é de inteira responsabilidade do usuário, que deve garantir a conformidade com os Termos de Serviço do sistema original e as políticas de segurança de sua organização.
+## Isenção de Responsabilidade (Disclaimer)
+
+**Aviso de Marca Registrada:** *Softdesk* é uma marca de propriedade da **Soft4Ti Soluções e Consultoria LTDA**. Este projeto é uma ferramenta de código aberto totalmente independente, desenvolvida por terceiros para fins estritamente educacionais e de otimização de fluxo de trabalho pessoal. 
+
+Este software:
+- Não possui nenhuma afiliação, patrocínio, autorização ou aprovação oficial da Soft4Ti.
+- Não distribui, armazena ou comercializa dados proprietários ou informações privadas de terceiros.
+- É fornecido "no estado em que se encontra" (*as is*). O uso desta ferramenta é de inteira responsabilidade do usuário final, que deve garantir a conformidade com os Termos de Serviço do sistema original e com as políticas de segurança e confidencialidade de sua respectiva organização.
