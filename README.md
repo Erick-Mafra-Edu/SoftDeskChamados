@@ -1,4 +1,4 @@
-# Softdesk Chamados PWA
+# Painel Alternativo Open-Source para Gestão de Chamado
 
 Aplicacao web em Next.js para acompanhar, pesquisar e analisar chamados do Softdesk em uma interface operacional com suporte a PWA. O projeto centraliza chamados em um dashboard com metricas, graficos, tabela, visualizacao Kanban, filtros avancados, detalhes do chamado e download de anexos.
 
