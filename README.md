@@ -206,3 +206,4 @@ Ainda assim, a estrutura permite que outra pessoa com uma necessidade semelhante
 - Para ambientes compartilhados ou producao, revise esse fluxo antes de disponibilizar a aplicacao a outros usuarios.
 - Cookies e tokens informados nas variaveis de ambiente devem ser tratados como segredos.
 
+Este é um projeto independente, de código aberto, desenvolvido puramente para fins educacionais e de otimização de fluxo de trabalho pessoal. Ele não possui nenhuma afiliação, patrocínio ou aprovação oficial da Soft4 ou dos desenvolvedores do Softdesk. O uso desta ferramenta é de inteira responsabilidade do usuário, que deve garantir a conformidade com os Termos de Serviço do sistema original e as políticas de segurança de sua organização.
